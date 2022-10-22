@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @kyojin-choo
 
-I'm a Software Engineer located in Baltimore, MD
+**I'm a Software Engineer located in Baltimore, MD**
 
 
 #### About Me
