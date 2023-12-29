@@ -6,7 +6,7 @@
 #### About Me
 - 👷 I am working as a **Software Engineer at Synctera**
 - ⚙️ Technologies that I use at work `go`, `python`, `java`, `typescript`, `postgres`, `MongoDB` 
-- 🎮 Hobbies include **sports**, **video games**, **keyboards**, and **stocks**
+- 🎮 Hobbies include **sports**, **video games**, **keyboards**, **poker**, and **stocks**
 - 📫 Contact me: https://www.linkedin.com/in/kyojinchoo
 
 
